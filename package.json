@@ -1,0 +1,35 @@
+{
+  "name": "video-for-claude",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "verify": "bash scripts/verify.sh",
+    "remotion:studio": "remotion studio",
+    "remotion:render": "remotion render Demo out/remotion.mp4",
+    "hf:preview": "cd hyperframes-demo && hyperframes preview",
+    "hf:render": "cd hyperframes-demo && hyperframes render -o ../out/hyperframes.mp4",
+    "hf:doctor": "hyperframes doctor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daotronghiepmkt/Video-for-Claude.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daotronghiepmkt/Video-for-Claude/issues"
+  },
+  "homepage": "https://github.com/daotronghiepmkt/Video-for-Claude#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.541",
+    "@remotion/renderer": "^4.0.541",
+    "hyperframes": "^0.9.16",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.541"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  },
+  "private": true
+}

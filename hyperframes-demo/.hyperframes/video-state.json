@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "historyId": "7e2554c1-ba5e-4e6c-b195-344944caa0ad",
+  "currentRevision": null,
+  "pendingChanges": false,
+  "files": {
+    "AGENTS.md": {
+      "hash": "1a68041fc901ff835682a2a8d6f63c96dbb0b9eef8fb0971e97a79eaf69303d3",
+      "content": "/root/.cache/hyperframes/history/7e2554c1-ba5e-4e6c-b195-344944caa0ad/blobs/1a/1a68041fc901ff835682a2a8d6f63c96dbb0b9eef8fb0971e97a79eaf69303d3"
+    },
+    "CLAUDE.md": {
+      "hash": "1a68041fc901ff835682a2a8d6f63c96dbb0b9eef8fb0971e97a79eaf69303d3",
+      "content": "/root/.cache/hyperframes/history/7e2554c1-ba5e-4e6c-b195-344944caa0ad/blobs/1a/1a68041fc901ff835682a2a8d6f63c96dbb0b9eef8fb0971e97a79eaf69303d3"
+    },
+    "hyperframes.json": {
+      "hash": "53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50",
+      "content": "/root/.cache/hyperframes/history/7e2554c1-ba5e-4e6c-b195-344944caa0ad/blobs/53/53dbce1e19aa713cbb12ee0bc4d206143b45ab15e6ffbfcaa8f69572d4d24d50"
+    },
+    "index.html": {
+      "hash": "ffc39c579b61978af250b7117d3b4181fb373c57faa7dc69a707b0eb357cb1f4",
+      "content": "/root/.cache/hyperframes/history/7e2554c1-ba5e-4e6c-b195-344944caa0ad/blobs/ff/ffc39c579b61978af250b7117d3b4181fb373c57faa7dc69a707b0eb357cb1f4"
+    },
+    "meta.json": {
+      "hash": "ce62061fe78167856926676f6940b8af7bf645086f6b3f646c917eee2b93f591",
+      "content": "/root/.cache/hyperframes/history/7e2554c1-ba5e-4e6c-b195-344944caa0ad/blobs/ce/ce62061fe78167856926676f6940b8af7bf645086f6b3f646c917eee2b93f591"
+    },
+    "package.json": {
+      "hash": "43dae26c7ec12c11919b3929d1cfc6ecb8648c315df5dfff6f7e4e46cb27d0df",
+      "content": "/root/.cache/hyperframes/history/7e2554c1-ba5e-4e6c-b195-344944caa0ad/blobs/43/43dae26c7ec12c11919b3929d1cfc6ecb8648c315df5dfff6f7e4e46cb27d0df"
+    }
+  },
+  "revisions": {},
+  "checks": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "snapshots": {
+    "latest": null,
+    "revisions": {},
+    "unversioned": []
+  },
+  "renders": {
+    "latest": {
+      "id": "003301e5-66b6-43eb-a11d-3736e29db8af",
+      "completedAt": 1793897009115,
+      "output": "/home/user/Video-for-Claude/out/hyperframes-test.mp4",
+      "status": "completed",
+      "revision": null
+    },
+    "retainedRevisions": []
+  },
+  "pendingArtifactCleanup": []
+}
